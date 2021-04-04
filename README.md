@@ -8,5 +8,5 @@
 
 Demo:
 
-https://user-images.githubusercontent.com/1523404/113518881-668ed300-955f-11eb-9178-589416c55f52.mp4
+<video src="https://user-images.githubusercontent.com/1523404/113518881-668ed300-955f-11eb-9178-589416c55f52.mp4"/>
 
